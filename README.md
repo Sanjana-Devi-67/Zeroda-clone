@@ -1,11 +1,11 @@
 # Zerodha Clone (Static Version)
 
-A simplified Zerodha clone demonstrating stock listings, portfolio overview, and charts using **static data**. Built for learning and demo purposes.
+A simplified Zerodha clone demonstrating stock listings, portfolio overview, and charts . Built for learning and demo purposes.
 
 ## Features
 
 - Display stock listings with prices and details
-- Portfolio overview with static holdings
+- Portfolio overview
 - Simulated buy/sell functionality using static data
 - Interactive charts for stock trends
 - Responsive and user-friendly UI
